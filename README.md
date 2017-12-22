@@ -1,5 +1,8 @@
 # Angular5Ngrx
 
+## A example project for angular 5 and ngrx from this tutorial:
+https://www.pluralsight.com/guides/front-end-javascript/building-a-redux-application-with-angular-2-part-1#your-first-reducer
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.2.
 
 ## Development server
